@@ -1,1 +1,1 @@
-# bug bounty
+# bug bounty.
